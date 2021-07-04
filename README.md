@@ -6,7 +6,7 @@ I am a programmer who loves technology, welcome to communicate and improve toget
 
 #### 很高兴遇见你,请多多关注 😄 
 
-- 🏫 毕业于合肥工业大学（本科）
+- 🏫 毕业于合肥工业大学（本科），在读于北京科技大学（硕士）
 - 🔭 我是一名Java工程师  
 - ⭐ 博客：https://blog.csdn.net/qq_43284141
 - 📫 邮箱：iampengchenyu@163.com
